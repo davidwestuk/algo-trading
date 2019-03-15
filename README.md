@@ -1,4 +1,4 @@
-# financial-data
+# algo-trading
 
 The following link will launch an interactive version of PFE Optimization.ipynb
 
